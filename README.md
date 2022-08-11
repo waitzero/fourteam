@@ -11,6 +11,8 @@ playdata first mini project
 ##  대표적인 용어와 관련된 변수
 
 ##  팀원소개
+[Emojies](https://github.com/markdown-it/markdown-it-emoji)
+:boy: 
 ##  기능 요구사항
 ##  트러블 슈팅 (에러 발생 내역 및 해결 방안)
 ##  느낀점 (팀원 각각 개별 작성)
