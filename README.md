@@ -25,4 +25,7 @@ MySql에서 fourteam_db schema를 생성하고, 그 안에 user와 stage테이�
 
 
 ##  트러블 슈팅 (에러 발생 내역 및 해결 방안)
+
+
+
 ##  느낀점 (팀원 각각 개별 작성)
