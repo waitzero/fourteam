@@ -19,7 +19,7 @@ MVC pattern, OOP(객체지향프로그래밍), builder,
 
 + 조재현
 
-- Java에서 Question 파트담당
+-- Java에서 Question 파트담당
 
 + 원혜민
 
