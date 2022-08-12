@@ -13,17 +13,11 @@
 MVC pattern, OOP(객체지향프로그래밍), builder, 
 
 ##  팀원소개
-+ 정지영
- 
- - MySql DB 연결, Java에 로그인/회원가입 파트 담당
++ 정지영 : MySql DB 연결, Java에 로그인/회원가입 파트 담당
 
-+ 조재현
++ 조재현 : Java에서 Question 파트담당
 
--- Java에서 Question 파트담당
-
-+ 원혜민
-
-- Java에서 Answer 파트 담당
++ 원혜민 : Java에서 Answer 파트 담당
 
 ##  기능 요구사항
 MySql에서 fourteam_db schema를 생성하고, 그 안에 user와 stage테이블로 구성함
@@ -35,3 +29,8 @@ MySql에서 fourteam_db schema를 생성하고, 그 안에 user와 stage테이�
 
 
 ##  느낀점 (팀원 각각 개별 작성)
++ 정지영 :
+
++ 조재현 : 
+
++ 원혜민 : 
